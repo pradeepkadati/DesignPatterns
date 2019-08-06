@@ -1,9 +1,11 @@
 # Compiled class file
 *.class
-
+.classpath
+.project
 # Log file
 *.log
-
+.settings/
+target/
 # BlueJ files
 *.ctxt
 
