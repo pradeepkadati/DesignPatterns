@@ -8,6 +8,13 @@ import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
+import io.javabytes.designpatterns.factory.AccountType;
+import io.javabytes.designpatterns.factory.CheckingAccount;
+import io.javabytes.designpatterns.factory.LineOfCreditAccount;
+import io.javabytes.designpatterns.factory.RegisteredAccountFactory;
+import io.javabytes.designpatterns.factory.SavingsAccount;
+import io.javabytes.designpatterns.factory.StudentLoanAccount;
+
 public class RegisteredAccountFactoryTest {
 
 	private static RegisteredAccountFactory factory;

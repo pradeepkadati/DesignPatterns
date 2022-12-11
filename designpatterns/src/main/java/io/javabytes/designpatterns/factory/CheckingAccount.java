@@ -1,5 +1,5 @@
 
-package io.javanuts.designpatterns.factory;
+package io.javabytes.designpatterns.factory;
 
 public class CheckingAccount implements Account{
 
